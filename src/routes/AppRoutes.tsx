@@ -8,7 +8,7 @@ const router = createBrowserRouter([
     element: <Cadastro />,
   },
   {
-    path: "/contato",
+    path: "/login",
     element: <Login />,
   },
 ]);
